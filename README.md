@@ -4,6 +4,8 @@
 - 🌐 You can visit my personal website at www.wenderinacio.me
 - 💼 LinkedIn Profile: www.linkedin.com/in/wenderinacio
 
+##
+
 <div>
   <a href="https://github.com/wenderinacio/">
   <img src="https://github-readme-stats.vercel.app/api?username=wenderinacio&showicons=true&theme=dark&include_all_commits=true&count_private=true">

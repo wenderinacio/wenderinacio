@@ -1,4 +1,7 @@
 # Olá, eu sou o Wender!
+
+![](https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif)
+
 Apaixonado por tecnologia e a forma como ela simplifica a vida das pessoas, acredito
 que podemos sempre ir mais longe. Sou proativo, curioso, criativo, determinado e amo aprender coisas novas.
 
